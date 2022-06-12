@@ -8,7 +8,7 @@
 
 + Open your terminal.
 + In your terminal, go to the folder where you want to save the app.
-+ Run the command ```git clone git@github.com:J-Rozas/GeoFun.git```
++ Run the command ```git clone git@github.com:JazzRose/GeoFun.git```
 + Once the download has ended, run ```cd client```
 + Now, to install all the modules for the client run ```npm i```
 + Once the download is completed, run ```cd ../server```
